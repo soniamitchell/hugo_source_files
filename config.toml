@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "https://soniamitchell.github.io"
 languageCode = "en-us"
-title = "Cactus theme example"
+title = "Sonia's website"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
+copyright = "Sonia Mitchell" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -30,6 +30,11 @@ name = "About"
 url = "/about"
 weight = 4
 
+[[menu.main]]
+name = "Moods"
+url = "/moods"
+weight = 5
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -43,7 +48,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors."
+  description = "Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -65,10 +70,16 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/soniamitchell"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "http://www.linkedin.com/in/sonia-mitchell/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "sonia.mitchell@glasgow.ac.uk"  # no need for "mailto:" in the head
+
+# Create custom taxonomy
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  mood = "moods"
