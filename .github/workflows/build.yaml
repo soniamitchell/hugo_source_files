@@ -20,6 +20,7 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.68.3
+        HUGO_EXTENDED: true
         TARGET_REPO: soniamitchell/soniamitchell.github.io
         TOKEN: ${{ secrets.HUGO_TOKEN }}
         CNAME: sonia-mitchell.com
