@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://example.com"
 title = "Example Site"
 theme = "erblog"
 paginate = 3
@@ -54,11 +54,21 @@ tag = "tags"
 series = "series"
 
 [[menu.icon]]
-    url = "mailto:soniamitchell@gmail.com"
+    url = "mailto:username@mail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/soniamitchell/"
+    url = "https://github.com/username/"
     name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/username"
+    name = "twitter"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://www.instagram.com/username/"
+    name = "instagram"
     weight = 1
