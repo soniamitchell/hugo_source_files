@@ -25,3 +25,39 @@ To create a custom taxonomy, `moods`, in your config.toml create a new array lis
   category = "categories"
   mood = "moods"
 ```
+
+Push files (not including the public directory) to username.github.io
+
+Include a yaml file
+
+``` yaml
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout master
+      uses: actions/checkout@v1
+      with:
+        submodules: true
+
+    - name: Hugo Deploy GitHub Pages
+      uses: benmatselby/hugo-deploy-gh-pages@master
+      env:
+        HUGO_VERSION: 0.68.3
+        TARGET_REPO: soniamitchell/soniamitchell.github.io
+        TOKEN: ${{ secrets.HUGO_TOKEN }}
+        CNAME: sonia-mitchell.com
+```
+
+where TARGET_REPO points at your username.github.io repository
+
+Go to settings and put your custom domain in custom domain. This will create a CNAME file. Copy the contents of this file into the CNAME field in the build.yaml.
