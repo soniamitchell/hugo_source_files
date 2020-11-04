@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Example Site"
+title = "Sonia Mitchell"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
@@ -8,18 +8,18 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
-    author = "Steve Francia"
+    author = "Sonia Mitchell"
     badge = "orange"
     quote = "red"
-    notice = "Hello, world. This is a notification."
+    notice = "Initial commit."
     notice_color = "red"
     index_posts_num = 5
     google_search = true
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
-    <p> This is BIO. You can write something here. </p>
+    <p>Data Scientist / Research Software Engineer with expert knowledge of R programming and extensive experience in project management and data analysis. </p>
     <br />
-    <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
+    <p>My <a href="https://github.com/soniamitchell/">GitHub</a>.</p>
     """
     # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
