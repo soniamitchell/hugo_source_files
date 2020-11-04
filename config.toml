@@ -1,85 +1,18 @@
-baseURL = "https://sonia-mitchell.com"
-languageCode = "en-us"
-title = "Sonia's website"
-theme = "cactus"
-copyright = "Sonia Mitchell" # cactus will use title if copyright is not set
-disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
-# googleAnalytics = "UA-1234-5"
+baseurl = "/"
+title = "My blog"
+theme = "ghostwriter"
 
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/XXX"
+    twitter = "https://twitter.com/XXX"
+    email = "XXX@example.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
 
-# summaryLength = 2
-
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Writings"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 3
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
-
-[[menu.main]]
-name = "Moods"
-url = "/moods"
-weight = 5
-
-[markup]
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
-
-[params]
-
-  colortheme = "white" # dark, light, white, or classic
-  rss = true # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
-
-  # Home page settings
-  description = "Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band."
-  mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
-  showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/soniamitchell" # title link for projects list
-
-  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "2006-01-02" # default
-
-  # Post page settings
-  show_updated = false # default
-
-  [params.comments]
-    enabled = false # default
-    engine = "disqus" # more supported engines will be added.
-
-  # the value of name should be an valid font awesome icon name (brands type)
-  # https://fontawesome.com/icons?d=gallery&s=brands
-  [[params.social]]
-    name = "github"
-    link = "https://github.com/soniamitchell"
-  [[params.social]]
-    name = "linkedin"
-    link = "http://www.linkedin.com/in/sonia-mitchell/"
-  [[params.social]]
-    name = "email"
-    link = "sonia.mitchell@glasgow.ac.uk"  # no need for "mailto:" in the head
-
-# Create custom taxonomy
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  mood = "moods"
+[Permalinks]
+    post = "/:filename/"
