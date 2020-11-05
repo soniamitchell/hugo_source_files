@@ -54,7 +54,7 @@ tag = "tags"
 series = "series"
 
 [[menu.icon]]
-    url = "mailto:soniamitchell@gmail.com"
+    url = "mailto:sonia.mitchell@glasgow.ac.uk"
     name = "envelope-o"
     weight = 1
 
