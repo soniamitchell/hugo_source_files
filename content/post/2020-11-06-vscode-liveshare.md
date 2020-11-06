@@ -48,13 +48,13 @@ To create a new invite link, do any of the these:
 
 ![4](/vscode_liveshare/5_panel.png)
 
+Once you've collaborated with someone they'll be added to your contacts and if they're online you can invite them directly by clicking on the "Invite Contact" icon next to their name.
+
+![5](/vscode_liveshare/6_contacts.png)
+
 To end the session, do one of the these:
 
 * Click on your name in the status bar and "Stop Collaboration Session"
 * Select the "Stop collaboration session" icon in the Live Share panel
-
-Once you've collaborated with someone they'll be added to your contacts and if they're online you can invite them directly by clicking on the "Invite Contact" icon next to their name.
-
-![5](/vscode_liveshare/6_contacts.png)
 
 More info [here](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode).
