@@ -23,7 +23,7 @@ Install the "Live Share" Microsoft extension from the VS Code marketplace.
 
 ## Step 2 - Share a session
 
-To create a new session, click on "Live Share" in the bottom toolbar. The first time you do this, you'll be prompted to sign in. Selecting "Sign in with GitHub" will open a link in your browser.
+To create a new session, click on "Live Share" in the status bar (at the bottom of the VS Code window). The first time you do this, you'll be prompted to sign in. Selecting "Sign in with GitHub" will open a link in your browser.
 
 ![1](/vscode_liveshare/2_signin.png)
 
@@ -31,16 +31,16 @@ Follow the instructions and "Authorize VisualStudioLiveShare".
 
 ![2](/vscode_liveshare/3_authorize.png)
 
-You'll know you're logged when your name appears in the bottom toolbar to the left of the Live Share icon.
+You'll know you're logged when your name appears in the status bar to the left of the Live Share icon.
 
 ![3](/vscode_liveshare/4_bottom.png)
 
-At this point an invite link should be copied to your clipboard, which you can share with your team mates. To end the session, click on your name in the bottom toolbar and "Stop Collaboration Session".
+At this point an invite link should be copied to your clipboard, which you can share with your team mates. To end the session, click on your name in the status bar and "Stop Collaboration Session".
 
 To create a new invite link, you can:
 
-* Click on Live Share in the bottom toolbar
-* Click on your name in the bottom toolbar and select "InviteOthers (Copy Link)"
+* Click on Live Share in the status bar
+* Click on your name in the status bar and select "InviteOthers (Copy Link)"
 * Click on the "Live Share" icon in the side bar to open a Live Share panel, and select "Share (Read/Write)"
 
 ![4](/vscode_liveshare/5_panel.png)
