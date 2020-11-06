@@ -48,4 +48,4 @@ Once you've collaborated with someone they'll be added to your contacts and if t
 
 ![5](/vscode_liveshare/6_contacts.png)
 
-If Read and Write access is enablesd, your team mates can edit your code, comment it, highlight sections of it, save it, and run it in real time. But they won't have access to any objects in your environment or files on your computer. When code is run, it is run locally.
+If Read and Write access is enabled, your team mates can edit your code, comment it, highlight sections of it, save it, and run it in real time. But they won't have access to any objects in your environment or files on your computer. When code is run, it is run locally.
