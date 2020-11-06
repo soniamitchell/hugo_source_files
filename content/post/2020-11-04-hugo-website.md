@@ -9,7 +9,6 @@ tags = [
     "custom_domain",
 ]
 categories = [
-    "website",
     "coding",
 ]
 series = ["Website Guide"]
