@@ -6,11 +6,11 @@ description = "How to set up Live Share in Visual Studio Code"
 tags = [
     "Visual Studio Code",
     "Live Share",
-    "Collaboration",
+    "Collaborative tools",
 ]
 categories = [
     "Visual Studio Code",
-    "Setup",
+    "Collaborative tools",
 ]
 series = ["Visual Studio Code"]
 +++
