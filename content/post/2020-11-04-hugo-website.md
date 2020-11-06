@@ -6,7 +6,7 @@ description = "How to build a website in Hugo"
 tags = [
     "hugo",
     "website",
-    "custom_domain",
+    "custom domain",
 ]
 categories = [
     "coding",
