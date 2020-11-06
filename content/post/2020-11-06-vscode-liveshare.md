@@ -14,6 +14,10 @@ categories = [
 series = ["Visual Studio Code"]
 +++
 
+The Visual Studio Code Live Share extension provides a great way to collaborate on code whilst working from home. Assuming read/write access is enabled, you and your team mates can edit code, highlight sections of it, save it, and run it in real-time.
+
+Just bear in mind that when code is run, it is run locally, which means you won't have access to any objects that aren't in your own environment or datasets that aren't on your own machine. On the plus side, you don't have to go into the office and you can access code remotely using your own personalised setup and tools.
+
 ## Step 1 - Download the extension
 
 Install the "Live Share" Microsoft extension from the VS Code marketplace.
@@ -53,4 +57,4 @@ Once you've collaborated with someone they'll be added to your contacts and if t
 
 ![5](/vscode_liveshare/6_contacts.png)
 
-If Read and Write access is enabled, your team mates can edit your code, comment it, highlight sections of it, save it, and run it in real time. But they won't have access to any objects in your environment or files on your computer. When code is run, it is run locally.
+More info [here](https://docs.microsoft.com/en-us/visualstudio/liveshare/use/vscode).
