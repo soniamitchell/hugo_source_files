@@ -27,7 +27,7 @@ To create a new session, click on "Live Share" in the status bar (at the bottom 
 
 ![1](/vscode_liveshare/2_signin.png)
 
-Follow the instructions and "Authorize VisualStudioLiveShare".
+"Authorize VisualStudioLiveShare" and accept all things.
 
 ![2](/vscode_liveshare/3_authorize.png)
 
