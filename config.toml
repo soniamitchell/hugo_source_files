@@ -19,7 +19,8 @@ footnoteReturnLinkContents = "^"
     bio = """
     <p>Data Scientist / Research Software Engineer with expert knowledge of R programming and extensive experience in project management and data analysis. </p>
     <br />
-    <p>My <a href="https://github.com/soniamitchell/">GitHub</a>.</p>
+    <p>This is my notebook and digital resume. </p>
+    <br />
     """
     # copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
@@ -36,17 +37,17 @@ footnoteReturnLinkContents = "^"
 #     url = "/zone/"
 #     weight = 10
 
-[[menu.footer]]
-    identifier = "home"
-    name = "home"
-    url = "/"
-    weight = 1
+#[[menu.footer]]
+#    identifier = "home"
+#    name = "home"
+#    url = "/"
+#    weight = 1
 
-[[menu.footer]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
+#[[menu.footer]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 2
 
 [taxonomies]
 category = "categories"
