@@ -1,18 +1,9 @@
-+++
-author = "Sonia Mitchell"
-title = "Live Share in Visual Studio Code"
-date = "2020-11-06"
-description = "How to set up Live Share in Visual Studio Code"
-tags = [
-    "Visual Studio Code",
-    "Live Share",
-    "collaborative tools",
-]
-categories = [
-    "coding",
-]
-series = ["Visual Studio Code"]
-+++
+---
+title: Live Share in Visual Studio Code
+subtitle: A how to guide
+date: 2020-11-06
+tags: ["visual studio code", "live share", "collaborative tools", "coding"]
+---
 
 The Visual Studio Code Live Share extension provides a great way to collaborate on code whilst working from home. Assuming read/write access is enabled, you and your team mates can edit code, highlight sections of it, save it, and run it in real-time.
 

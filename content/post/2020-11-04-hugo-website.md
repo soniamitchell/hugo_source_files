@@ -1,18 +1,9 @@
-+++
-author = "Sonia Mitchell"
-title = "How to build a website in Hugo"
-date = "2020-11-04"
-description = "How to build a website in Hugo"
-tags = [
-    "hugo",
-    "website",
-    "custom domain",
-]
-categories = [
-    "coding",
-]
-series = ["Website Guide"]
-+++
+---
+title: Build a website in Hugo
+subtitle: A how to guide
+date: 2020-11-04
+tags: ["hugo", "website", "custom domain", "coding"]
+---
 
 ## Step 1 - Creating your website locally
 
