@@ -15,7 +15,7 @@ comments: false
 
 * Lead Research Software Engineer, Scottish COVID-19 Response Consortium [SCRC] (May 2020 to date)
 * Postdoctoral Research Assistant, BAHCM, University of Glasgow (2018 to date)
-* Teaching Assistant for Biodiversity and Advanced Programming in R MSc courses, University of Glasgow (2017-2020)
+* Teaching Assistant for Biodiversity and Advanced Programming in R MSc courses, University of Glasgow (2017 to date)
 * English Instructor, Chonnam National University, South Korea (2008-2011)
 * Middle School English Teacher, Okgwa Middle School, South Korea (2007-2008)
 
