@@ -2,7 +2,7 @@
 title: Build a website in Hugo
 subtitle: A how to guide
 date: 2020-11-04
-tags: ["hugo", "website", "custom domain", "coding"]
+tags: ["Hugo", "website", "custom domain"]
 ---
 
 ## Step 1 - Creating your website locally
