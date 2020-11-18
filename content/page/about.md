@@ -21,14 +21,14 @@ comments: false
 
 ## Publications and Related Software
 
-* Schneider K, White T, **Mitchell SN**, et al., Pitfalls and virtues of population genetic summary statistics: detecting selective sweeps in recent divergences. Journal of Evolutionary Biology. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13738?af=R)
-* **Mitchell SN**, Reeve R, and White TJ (2020). rdiversity: Measurement and Partitioning of Similarity-Sensitive Biodiversity. R package version 2.0. [Link](https://CRAN.R-project.org/package=rdiversity)
-* Sarker SK, Matthiopoulos J, **Mitchell SN**, Paul NK, and Reeve R. 1980s – 2010s: The world’s largest mangrove ecosystem is becoming homogenous. Biological Conservation 236:79-91, 2019. [Link](https://www.sciencedirect.com/science/article/pii/S0006320718314186)
-* Kirkpatrick L, **Mitchell SN**, and Park KJ. The metric matters when assessing diversity: Assessing lepidopteran species richness and diversity in two habitats under different disturbance regimes. Ecology and Evolution, 8(22):11134-11142, 2018. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4581)
-* Reeve R, Leinster T, Cobbold CA, Thompson J, Brummitt N, **Mitchell SN**, and Matthews L. 2016. How to partition diversity. arXiv:1404.6520. [Link](https://arxiv.org/abs/1404.6520)
+* Schneider, K., White, T., **Mitchell, S. N.**, et al. (2020). Pitfalls and virtues of population genetic summary statistics: detecting selective sweeps in recent divergences. *Journal of Evolutionary Biology*. [https://doi.org/10.1002/ece3.4581](https://doi.org/10.1002/ece3.4581)
+* **Mitchell, S. N.**, Reeve, R., and White., T. J. (2020). rdiversity: Measurement and Partitioning of Similarity-Sensitive Biodiversity. R package version 2.0. [GitHub](https://github.com/boydorr/rdiversity)
+* Sarker, S. K., Matthiopoulos, J., **Mitchell, S. N.**, Ahmed, Z. U., Paul, N. K., and Reeve, R. (2019). 1980s – 2010s: The world’s largest mangrove ecosystem is becoming homogenous. *Biological Conservation* 236:79-91. [https://doi.org/10.1016/j.biocon.2019.05.011](https://doi.org/10.1016/j.biocon.2019.05.011)
+* Kirkpatrick, L., **Mitchell, S. N.**, and Park, K. J. (2018). The metric matters when assessing diversity: Assessing lepidopteran species richness and diversity in two habitats under different disturbance regimes. *Ecology and Evolution*, **8**(22):11134-11142. [https://doi.org/10.1002/ece3.4581](https://doi.org/10.1002/ece3.4581)
+* Reeve, R., Leinster, T., Cobbold, C. A., Thompson, J., Brummitt, N., **Mitchell, S. N.**, and Matthews, L. (2016). How to partition diversity. arXiv:1404.6520. [arXiv:1404.6520v3](https://arxiv.org/abs/1404.6520v3)
 
 ### In preparation
 
-* Chase Topping M, Lupolova N, Allison L, Matthews L, **Mitchell SN** … 18 authors…, Differences in Strain composition of E. coli O157 in cattle and humans between Scotland and England & Wales: implications for human health (in preparation)
-* Reeve R, **Mitchell SN**, Leinster T, Cobbold CA, Thompson J, Brummitt N, Matthews L, Partitioning biological diversity between subcommunities (in preparation)
-* **Mitchell SN**, Reeve R. Phylogenetic beta diversity: Comparisons with traditional measures of phylogenetic diversity (in preparation)
+* Chase Topping, M., Lupolova, N., Allison, L., Matthews, L., **Mitchell, S. N.**, et al. Differences in Strain composition of E. coli O157 in cattle and humans between Scotland and England & Wales: implications for human health (in preparation)
+* Reeve, R., **Mitchell, S. N.**, Leinster, T., Cobbold, C. A., Thompson, J., Brummitt, N., Matthews, L., Partitioning biological diversity between subcommunities (in preparation)
+* **Mitchell, S. N.**, Reeve, R. Phylogenetic beta diversity: Comparisons with traditional measures of phylogenetic diversity (in preparation)
