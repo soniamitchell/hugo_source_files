@@ -1,6 +1,6 @@
 ---
 title: Live Share in Visual Studio Code
-subtitle: A how to guide
+subtitle: Collaboration made easy
 date: 2020-11-06
 tags: ["visual studio code", "live share", "collaborative tools", "coding"]
 ---
