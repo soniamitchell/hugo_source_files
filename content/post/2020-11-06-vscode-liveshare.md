@@ -9,6 +9,10 @@ The Visual Studio Code Live Share extension provides a great way to collaborate 
 
 Just bear in mind that when code is run, it is run locally, which means you won't have access to any objects that aren't in your own environment or datasets that aren't on your own machine. On the plus side, you don't have to go into the office and you can access code remotely using your own personalised setup and tools.
 
+## Step 0 - Setup
+
+Download and install [Visual Studio Code](https://code.visualstudio.com).  
+Make sure you have an account on [GitHub](https://github.com).
 ## Step 1 - Download the extension
 
 Install the "Live Share" Microsoft extension from the VS Code marketplace.
