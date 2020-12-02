@@ -38,7 +38,7 @@ You'll know you're logged when your name appears in the status bar to the left o
 
 At this point an invite link should be copied to your clipboard, which you can share with your team mates.
 
-To create a new invite link, do any of the these:
+To create a new invite link, do any of the these things:
 
 * Click on Live Share in the status bar
 * Click on your name in the status bar and select "InviteOthers (Copy Link)"
@@ -50,7 +50,7 @@ Once you've collaborated with someone they'll be added to your contacts and if t
 
 ![5](/vscode_liveshare/6_contacts.png)
 
-To end the session, do one of the these:
+To end the session, do one of the following:
 
 * Click on your name in the status bar and "Stop Collaboration Session"
 * Select the "Stop collaboration session" icon in the Live Share panel
