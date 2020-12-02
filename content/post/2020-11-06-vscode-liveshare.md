@@ -19,7 +19,7 @@ Now, open up VS Code and install the "Live Share" Microsoft extension from the V
 
 ![0](/vscode_liveshare/1_extension.png)
 
-While you're there, if you're intending to work in R, you may aswell install:
+While you're there, if you're intending to work in R, you may as well install:
 * the "R" Yuki Ueda extension and 
 * the "R LSP Client" REditorSupport extension.
 ## Step 2 - Share a session
