@@ -6,8 +6,8 @@ comments: false
 
 ## Data science
 * [data-to-viz](https://www.data-to-viz.com) - a gallery of graphs and visualisations
-* [The R Graph Gallery](https://www.r-graph-gallery.com)
-* [Shiny Skins](https://medium.com/compassred-data-blog/our-favorite-r-shiny-ui-skins-c505328b8268)
+* [The R Graph Gallery](https://www.r-graph-gallery.com) - an R based visualisation gallery
+* [Shiny Skins](https://medium.com/compassred-data-blog/our-favorite-r-shiny-ui-skins-c505328b8268) - different layout options for Shiny
 
 ## Teaching
 * [learn git branching](https://learngitbranching.js.org) - an interactive Git tutorial
