@@ -5,20 +5,23 @@ date: 2020-11-06
 tags: ["Visual Studio Code", "Live Share", "collaborative tools"]
 ---
 
-The Visual Studio Code Live Share extension provides a great way to collaborate on code whilst working from home. Assuming read/write access is enabled, you and your team mates can edit code, highlight sections of it, save it, and run it in real-time.
+The Visual Studio Code (VS Code) Live Share extension provides a great way to collaborate on code whilst working from home. Assuming read/write access is enabled, you and your team mates can edit code, highlight sections of it, save it, and run it in real-time.
 
 Just bear in mind that when code is run, it is run locally, which means you won't have access to any objects that aren't in your own environment or datasets that aren't on your own machine. On the plus side, you don't have to go into the office and you can access code remotely using your own personalised setup and tools.
 
 ## Step 0 - Setup
 
-Download and install [Visual Studio Code](https://code.visualstudio.com).  
+Download and install [Visual Studio Code](https://code.visualstudio.com) (Note: this is not the same as the Visual Studio IDE).
 Make sure you have an account on [GitHub](https://github.com).
 ## Step 1 - Download the extension
 
-Install the "Live Share" Microsoft extension from the VS Code marketplace.
+Now, open up VS Code and install the "Live Share" Microsoft extension from the VS Code marketplace.
 
 ![0](/vscode_liveshare/1_extension.png)
 
+While you're there, if you're intending to work in R, you may aswell install:
+* the "R" Yuki Ueda extension and 
+* the "R LSP Client" REditorSupport extension.
 ## Step 2 - Share a session
 
 To create a new session, click on "Live Share" in the status bar (at the bottom of the VS Code window). The first time you do this, you'll be prompted to sign in. Selecting "Sign in with GitHub" will open a link in your browser.
