@@ -16,7 +16,7 @@ We're assuming you already have [Visual Studio Code](https://code.visualstudio.c
 
 Now, open up VS Code and install the "Live Share" Microsoft extension from the VS Code marketplace.
 
-![0](/vscode_liveshare/1_extension.png)
+![0](/vscode_liveshare/1_extension2.png)
 
 While you're there, if you're intending to work in R, you may as well install:
 * the "R" Yuki Ueda extension and 
@@ -25,15 +25,15 @@ While you're there, if you're intending to work in R, you may as well install:
 
 To create a new session, click on "Live Share" in the status bar (at the bottom of the VS Code window). The first time you do this, you'll be prompted to sign in. Selecting "Sign in with GitHub" will open a link in your browser.
 
-![1](/vscode_liveshare/2_signin.png)
+![1](/vscode_liveshare/2_signin2.png)
 
 "Authorize VisualStudioLiveShare" and accept ALL OF THE THINGS...
 
-![2](/vscode_liveshare/3_authorize.png)
+![2](/vscode_liveshare/3_authorize2.png)
 
 You'll know you're logged when your name appears in the status bar to the left of the Live Share icon.
 
-![3](/vscode_liveshare/4_bottom.png)
+![3](/vscode_liveshare/4_bottom2.png)
 
 At this point an invite link should be copied to your clipboard, which you can share with your team mates.
 
@@ -43,11 +43,11 @@ To create a new invite link, do any of the these things:
 * Click on your name in the status bar and select "InviteOthers (Copy Link)"
 * Click on the "Live Share" icon in the side bar to open a Live Share panel, and select "Share (Read/Write)"
 
-![4](/vscode_liveshare/5_panel.png)
+![4](/vscode_liveshare/5_panel2.png)
 
 Once you've collaborated with someone they'll be added to your contacts and if they're online you can invite them directly by clicking on the "Invite Contact" icon next to their name.
 
-![5](/vscode_liveshare/6_contacts.png)
+![5](/vscode_liveshare/6_contacts2.png)
 
 To end the session, do one of the following:
 
